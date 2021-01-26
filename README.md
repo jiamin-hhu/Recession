@@ -1,2 +1,2 @@
 # Recession
-Compute the recession coefficient
+退水过程曲线，以及利用最小二乘法计算退水系数。
